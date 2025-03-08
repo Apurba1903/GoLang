@@ -27,6 +27,7 @@ func main() {
 	//p = 100 // we can't change the value of constant variable
 }
 
+
 /*
 	Data Types
 	1. int
